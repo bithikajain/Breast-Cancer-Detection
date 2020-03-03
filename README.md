@@ -1,5 +1,4 @@
 # InsightdataChallenge2
 Repo for second data challenge 
 
-[![Build Status]]
-()
+Project completed in 3 hours
